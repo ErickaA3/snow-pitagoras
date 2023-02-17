@@ -1,0 +1,60 @@
+
+.content{
+    display: inline-block;
+margin: 50px;
+padding: 10px;
+font-size: 27px;
+}
+.h1{
+    font-family: 'GrotesqueBourgeoisieRegular';
+    font-weight: normal;
+    font-style: normal;
+    padding: 5px;
+    font-size: 60px;
+ }
+.resultados{
+    width: 400px;
+    height: 200px;
+    border: 2px solid cadetblue;
+    display: inline-block;
+}
+img{width: 500px;
+    height:300px;
+    left: 1000px;
+    
+
+   }
+h1{
+    font-family: 'GowaRegular';
+    font-weight: normal;
+    font-style: normal;
+ }
+ body{
+    color: #ffff;
+    background-image: url(16.png);
+    background-repeat: no-repeat;
+     background-size: cover;
+    font-family: 'GowaRegular';
+    font-weight: normal;
+    font-style: normal;
+ }
+    .btn-4 {
+        font-family: 'GowaRegular';
+   font-weight: normal;
+   font-style: normal;
+        margin: 20px;
+        width: 130px;
+    height: 40px;
+  background-color: #4dccc6;
+background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
+  line-height: 42px;
+  padding: 0;
+  border: none;
+  border-radius: 2px;
+  font-size: 20px;
+    }
+    
+      .btn-4:hover{
+        background-color: #89d8d3;
+      background-image: linear-gradient(315deg, #89d8d3 0%, #03c8a8 74%);
+      }
